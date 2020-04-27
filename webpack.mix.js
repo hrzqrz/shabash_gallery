@@ -16,3 +16,6 @@ mix.js('resources/js/app.js', 'public/js')
 
 mix.js('resources/js/adminapp.js', 'public/js')
    .sass('resources/sass/adminapp.scss', 'public/css');
+
+// mix.js('resources/js/mainthemeapp.js', 'public/js')
+//    .sass('resources/sass/mainthemeapp.scss', 'public/css');

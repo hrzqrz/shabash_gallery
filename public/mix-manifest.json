@@ -2,5 +2,7 @@
     "/js/adminapp.js": "/js/adminapp.js",
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
-    "/css/adminapp.css": "/css/adminapp.css"
+    "/css/adminapp.css": "/css/adminapp.css",
+    "/css/mainthemeapp.css": "/css/mainthemeapp.css",
+    "/js/mainthemeapp.js": "/js/mainthemeapp.js"
 }

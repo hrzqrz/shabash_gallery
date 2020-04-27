@@ -1,0 +1,56 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+// *****************ADMIN LTE ********************
+
+
+
+
+// *****************ADMIN LTE ********************
+
+// Css for Registration form in register.blade.php
+
+@import url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.css');
+
+@font-face {
+    font-family: 'Yekan';
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.eot');
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.woff') format('woff'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Yekan';
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan-Bold.eot');
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan-Bold.woff') format('woff'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Yekan";
+    src: url('../fonts/fa/Yekan.eot');
+    src: url('../fonts/fa/Yekan.eot?#iefix') format('Yekan-opentype'),
+         url('../fonts/fa/Yekan.woff') format('woff'),
+         url('../fonts/fa/Yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@import '../../public/css/maintheme/bootstrap.css';
+
+@import '../../public/css/maintheme/style.css';
+
+// Css for Registration form in register.blade.php
+
+
